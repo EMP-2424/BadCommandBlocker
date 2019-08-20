@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CommandInspector" />
+        <module name="BadCommandBlocker" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CommandInspector" target="1.5" />
+      <module name="BadCommandBlocker" target="1.5" />
       <module name="JavaTraining" target="1.5" />
       <module name="Training" target="1.5" />
     </bytecodeTargetLevel>

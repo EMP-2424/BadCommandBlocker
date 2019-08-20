@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CommandInspector/CommandInspector.iml" filepath="$PROJECT_DIR$/CommandInspector/CommandInspector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BadCommandBlocker/BadCommandBlocker.iml" filepath="$PROJECT_DIR$/BadCommandBlocker/BadCommandBlocker.iml" />
     </modules>
   </component>
 </project>

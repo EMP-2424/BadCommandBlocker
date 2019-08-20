@@ -8,12 +8,12 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Main extends JavaPlugin implements Listener {
     public void onEnable() {
         getServer().getPluginManager().registerEvents(this, this);
-        System.out.println("CommandInspector Loaded");
+        System.out.println("BadCommandBlocker v1.1 enabled!");
         System.out.println("by Atlantheamc.com");
 
     }
     public void onDisable() {
-        System.out.println("Command inspector Disabled");
+        System.out.println("BadCommandBlocker v1.1 disabled!");
         System.out.println("By Atlantheamc.com");
 
     }
