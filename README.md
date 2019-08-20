@@ -1,0 +1,2 @@
+# CommandInspector
+blocks commands with :
