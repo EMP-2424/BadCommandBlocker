@@ -9,12 +9,12 @@ public class Main extends JavaPlugin implements Listener {
     public void onEnable() {
         getServer().getPluginManager().registerEvents(this, this);
         System.out.println("BadCommandBlocker v1.1 enabled!");
-        System.out.println("by Atlantheamc.com");
+        //System.out.println("by Atlantheamc.com");
 
     }
     public void onDisable() {
         System.out.println("BadCommandBlocker v1.1 disabled!");
-        System.out.println("By Atlantheamc.com");
+        //System.out.println("By Atlantheamc.com");
 
     }
 
